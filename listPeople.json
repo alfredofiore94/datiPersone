@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Mario",
+    "cognome": "Rossi",
+    "datanascita": "1985-05-15",
+    "eta": 36
+  },
+  {
+    "nome": "Laura",
+    "cognome": "Bianchi",
+    "datanascita": "1990-12-03",
+    "eta": 31
+  },
+  {
+    "nome": "Luigi",
+    "cognome": "Verdi",
+    "datanascita": "1982-09-28",
+    "eta": 39
+  }
+]
